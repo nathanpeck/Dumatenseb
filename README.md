@@ -14,10 +14,10 @@ using git. (PR's to the game world?)
 
 __History:__
 
-* __[460](https://github.com/nathanpeck/Dumatenseb/blob/master/HISTORY.md#year-460---the-beginning):__ World begins
-* __[461](https://github.com/nathanpeck/Dumatenseb/blob/master/HISTORY.md#year-461---economy-ramping-up):__ Economy self sufficient
-* __[462](https://github.com/nathanpeck/Dumatenseb/blob/master/HISTORY.md#year-462---glass-economy-thriving-defenses-improved):__ Glass based crafting in full swing, defenses in progress
-* __[463](https://github.com/nathanpeck/Dumatenseb/blob/master/HISTORY.md#year-463---attacks-and-a-megaproject-begin):__ Mega project to create obsidian cast tower started.
+* __[Year 460](https://github.com/nathanpeck/Dumatenseb/blob/master/HISTORY.md#year-460---the-beginning):__ Dwarves settle in their new home
+* __[Year 461](https://github.com/nathanpeck/Dumatenseb/blob/master/HISTORY.md#year-461---economy-ramping-up):__ Economy self sufficient
+* __[Year 462](https://github.com/nathanpeck/Dumatenseb/blob/master/HISTORY.md#year-462---glass-economy-thriving-defenses-improved):__ Glass based crafting in full swing, defenses in progress
+* __[Year 463](https://github.com/nathanpeck/Dumatenseb/blob/master/HISTORY.md#year-463---attacks-and-a-megaproject-begin):__ Mega project to create obsidian cast tower started.
 
 __Try it yourself:__
 
